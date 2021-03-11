@@ -15,5 +15,6 @@
 		<li>1.브렌치 초기화 : 특정위치로되돌리기(hard:폐기/mixed/soft:)</li>
 		<li>REVERSECOMMIT </li>
 	</ul>
+	<p>가급적이면 지금상황에서는 신규개발 브랜치가 이파일을 가급적이면 손대지 않는것이 좋다.</p>
 	</body>
 </html>
