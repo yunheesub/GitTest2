@@ -13,7 +13,7 @@
 	<p>커밋후 처리방법</p>
 	<ul>
 		<li>1.브렌치 초기화 : 특정위치로되돌리기(hard:폐기/mixed/soft:)</li>
-		<li>
+		<li>리버스 커밋 </li>
 	</ul>
 	</body>
 </html>
