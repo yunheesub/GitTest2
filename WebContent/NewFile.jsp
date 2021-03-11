@@ -10,5 +10,10 @@
 	<body>
 	<h1>hello git !!</h1>
 	<p>폐기 단축키  ctrl shift r  >>>커밋하기전 unstaging 에서 변경내용을 취소 </p>
+	<p>커밋후 처리방법</p>
+	<ul>
+		<li>1.브렌치 초기화 : 특정위치로되돌리기(hard:폐기/mixed/soft:)</li>
+		<li>
+	</ul>
 	</body>
 </html>
